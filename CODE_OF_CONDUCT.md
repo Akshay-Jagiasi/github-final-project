@@ -1,1 +1,4 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+# Contributor Covenant Code of Conduct
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone...
+
